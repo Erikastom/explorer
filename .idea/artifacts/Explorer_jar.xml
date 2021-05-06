@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Explorer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Explorer_jar</output-path>
+    <root id="archive" name="Explorer.jar">
+      <element id="module-output" name="Explorer" />
+    </root>
+  </artifact>
+</component>
